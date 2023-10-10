@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BNDPraveen
-- 👀 I’m interested in coding and plants
+- 👀 I’m into coding and plants
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me praveenbabi124@gmail.com
