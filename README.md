@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BNDPraveen
 - 👀 I’m into coding and plants
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on java projects
+- 💞️ I’m looking to collaborate on python and MERN projects
 - 📫 How to reach me praveenbabi124@gmail.com
 
 <!---
